@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.serov.lab3","l":"CompareLists"},{"p":"com.serov.Comparators","l":"LinkedArrayListsComparator"},{"p":"com.serov.enums","l":"List"}];updateSearchResults();

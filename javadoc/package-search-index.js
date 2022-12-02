@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.serov.Comparators"},{"l":"com.serov.enums"},{"l":"com.serov.lab3"}];updateSearchResults();
